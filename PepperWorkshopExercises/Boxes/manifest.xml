@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="boxes" version="0.0.1">
+<package uuid="boxes-1234" version="0.0.1">
  <names>
-  <name lang="en_US">Boxes</name>
+  <name lang="en_US">1 Boxes Workshop</name>
  </names>
  <supportedLanguages>
   <language>en_US</language>

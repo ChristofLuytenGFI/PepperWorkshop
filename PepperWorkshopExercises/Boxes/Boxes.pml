@@ -11,6 +11,9 @@
         <File name="camera1" src="behavior_1/camera1.ogg" />
         <File name="vacuum1" src="behavior_1/vacuum1.ogg" />
         <File name="move" src="behavior_1/move.pmt" />
+        <File name="KissesOrBoring" src="html/KissesOrBoring.jpg" />
+        <File name="Boring" src="html/Boring.jpg" />
+        <File name="Kisses" src="html/Kisses.jpg" />
     </Resources>
     <Topics />
     <IgnoredPaths />
