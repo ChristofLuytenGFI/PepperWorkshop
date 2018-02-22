@@ -1,2 +1,0 @@
-# PepperWorkshop
-Workshop documents

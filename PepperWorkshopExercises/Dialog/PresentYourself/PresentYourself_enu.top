@@ -25,25 +25,16 @@ u:(talk about animals) do you have a cat or a dog?
      u2:(no) i hope your flat is big enough
    u1:(none) neither do I
 
-u:(nice to meet you) \rspd=90\ And nice to meet you. \pau=1000\ ^nextProposal
-
-proposal: %whatIsYourName What is your name?
-    u1:(Christof) Nice to meet you Christof. \pau=1000\ ^nextProposal
-
-
-proposal: %howOld How old are you?
-    u1:(Thirty four) That's still pretty young.
 
 
 
 
 
 
-# Defining extra concepts out of words or group of words
-#concept:(hello) [hello hi hey "good morning" greetings]
+
+#Change volume in % e.g \rspd=90\ 
+#Add a pause in ms e.g \pau=1000\
+
 
 # Catching inputs and triggering outputs
 #u:(e:onStart) $onStopped=1
-
-# Replying to speech
-#u:(~hello) ~hello

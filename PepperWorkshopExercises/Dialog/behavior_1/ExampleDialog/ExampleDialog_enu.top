@@ -1,6 +1,9 @@
 topic: ~ExampleDialog()
 language: enu
 
+# Catching inputs and triggering outputs
+#u:(e:onStart) $onStopped=1
+
 # Defining needed concepts, keywords or sentences corresponding to a concept.
 concept:(yes) [yes "all right" sure "why not" ok certainly "very well" yep yea definitely amen]
 concept:(no) [no nope "don't want" "no way" never "not at all"]
