@@ -18,12 +18,6 @@
             <comment>Text</comment>
             <translation type="obsolete">Kisses for everybody</translation>
         </message>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>Hello World</source>
-            <comment>Text</comment>
-            <translation type="unfinished">Hello World</translation>
-        </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/Say (1)</name>
@@ -41,9 +35,10 @@
     <context>
         <name>behavior_1/behavior.xar:/Say boring</name>
         <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Boring</source>
             <comment>Text</comment>
-            <translation type="obsolete">Boring</translation>
+            <translation type="unfinished">Boring</translation>
         </message>
     </context>
     <context>
