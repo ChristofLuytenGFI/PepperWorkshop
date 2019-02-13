@@ -14,6 +14,7 @@
         <File name="KissesOrBoring" src="html/KissesOrBoring.jpg" />
         <File name="Boring" src="html/Boring.jpg" />
         <File name="Kisses" src="html/Kisses.jpg" />
+        <File name="HR-sentences-1" src="html/HR-sentences-1.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
